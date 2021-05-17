@@ -1,0 +1,1 @@
+(self.webpackChunkgithub_notes=self.webpackChunkgithub_notes||[]).push([[171],{5743:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/github-notes/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/github-notes/blog/tags/docusaurus"}')}}]);

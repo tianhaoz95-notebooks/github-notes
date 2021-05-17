@@ -1,0 +1,1 @@
+(self.webpackChunkgithub_notes=self.webpackChunkgithub_notes||[]).push([[827],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/github-notes/blog/welcome"},{"title":"Hello","permalink":"/github-notes/blog/hello-world"},{"title":"Hola","permalink":"/github-notes/blog/hola"}]}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkgithub_notes=self.webpackChunkgithub_notes||[]).push([[817],{2850:function(t){"use strict";t.exports=JSON.parse('{"allTagsPath":"/github-notes/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/github-notes/blog/tags/hola"}')}}]);
