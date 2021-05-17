@@ -1,14 +1,14 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
+  title: 'GitHub Notes',
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://tianhaoz95-notebooks.github.io/github-notes',
+  baseUrl: '/github-notes/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'tianhaoz95-notebooks', // Usually your GitHub org/user name.
+  projectName: 'github-notes', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Site',
@@ -25,7 +25,7 @@ module.exports = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/tianhaoz95-notebooks/github-notes',
           label: 'GitHub',
           position: 'right',
         },
